@@ -9,3 +9,7 @@
 
 <img src="images/miku4.gif" height = 300 style="display:inline-block;">
 </p>
+
+<p>
+<img src="images/miku5.gif" height = 300 style="display:inline-block;">
+</p>
