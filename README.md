@@ -13,3 +13,9 @@
 <p>
 <img src="images/miku1.jpg" height = 300 style="display:inline-block;">
 </p>
+
+<p>
+<img src="images/miku6.jpg" height = 300 style="display:inline-block;mergin-right;10px;"/>
+
+<img src="images/miku7.jpg" height = 300 style="display:inline-block;">
+</p>
